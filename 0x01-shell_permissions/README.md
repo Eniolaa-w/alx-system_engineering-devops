@@ -5,4 +5,5 @@ Task 3- A Script that changes owner of thr filr hrllo to user betty.
 Task 4- A Script that creates an empty file hello.
 Task 5- A Script that executes the file hello.
 Task 6- A script that gives multiple permission.
+Task 7- Ascript that allows user, group and others execute a file.
 
