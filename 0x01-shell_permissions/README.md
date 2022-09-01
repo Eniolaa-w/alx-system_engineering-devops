@@ -12,4 +12,5 @@ Task 10- A scripts that lets you write a mirror file.
 Task 11 - A script that adds execute permisssion to all subdirectories of the current directory for the owner, the group owner and all the other user.
 Task 12- A script that creates a directory with permission 751.
 Task 13- A script that changes the group owner to school for the file hello.
+Task 14- A script that the owner and group owner for all the files and directories in the working directory.
 
