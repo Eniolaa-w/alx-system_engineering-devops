@@ -10,4 +10,5 @@ Task 8- A script that gave permission to the user alone.
 Task 9- A script that gave all permission to owner read and execute permission to group and write and execute permission to user.
 Task 10- A scripts that lets you write a mirror file.
 Task 11 - A script that adds execute permisssion to all subdirectories of the current directory for the owner, the group owner and all the other user.
+Task 12- A script that creates a directory with permission 751.
 
