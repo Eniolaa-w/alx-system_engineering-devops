@@ -13,4 +13,5 @@ Task 11 - A script that adds execute permisssion to all subdirectories of the cu
 Task 12- A script that creates a directory with permission 751.
 Task 13- A script that changes the group owner to school for the file hello.
 Task 14- A script that the owner and group owner for all the files and directories in the working directory.
+Task 15 -A script that changes ownership when there is a symbolic link.
 
